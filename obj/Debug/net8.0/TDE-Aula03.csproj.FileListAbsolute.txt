@@ -1,0 +1,14 @@
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\bin\Debug\net8.0\TDE-Aula03.exe
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\bin\Debug\net8.0\TDE-Aula03.deps.json
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\bin\Debug\net8.0\TDE-Aula03.runtimeconfig.json
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\bin\Debug\net8.0\TDE-Aula03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\bin\Debug\net8.0\TDE-Aula03.pdb
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.AssemblyInfoInputs.cache
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.AssemblyInfo.cs
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.csproj.CoreCompileInputs.cache
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\refint\TDE-Aula03.dll
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.pdb
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\TDE-Aula03.genruntimeconfig.cache
+C:\Users\thelinkergu\Documents\Gustavo M Lupim\Laboratório de Programação\Aula-03\TDE-Aula03\obj\Debug\net8.0\ref\TDE-Aula03.dll
