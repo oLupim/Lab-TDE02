@@ -101,8 +101,8 @@ int x = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Digite outro número:");
 int y = Convert.ToInt32(Console.ReadLine());
 
-int parX = x % x;
-int parY = y % y;
+int parX = x % 2;
+int parY = y % 2;
 
 string resultadoX = (parX == 0 ? "X é par" : "X Não é par");
 string resultadoY = (parY == 0 ? "Y é par" : "Y Não é par");
