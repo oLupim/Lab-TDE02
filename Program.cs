@@ -89,7 +89,7 @@ string login = Console.ReadLine();
 Console.WriteLine("Senha:");
 int senha = Convert.ToInt32(Console.ReadLine());
 
-string aviso = (nome == "admin" || nome == "maria" && senha == 123 ? "Login feito com sucesso");
+string aviso = (login == "admin" || login == "maria" && senha == 123 ? "Login feito com sucesso" : "Login Inválido");
 Console.WriteLine(aviso);
 
 // Escreva um programa que recebe via teclado dois números inteiros x e y e imprima no
@@ -104,5 +104,7 @@ int y = Convert.ToInt32(Console.ReadLine());
 int parX = x % x;
 int parY = y % y;
 
-string resultadoX = (parX == 0 ? "X é par");
-string resultadoY = (parY == 0 ? "X é par");
+string resultadoX = (parX == 0 ? "X é par" : "X Não é par");
+string resultadoY = (parY == 0 ? "Y é par" : "Y Não é par");
+Console.WriteLine(resultadoX);
+Console.WriteLine(resultadoY);
