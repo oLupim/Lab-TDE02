@@ -1,6 +1,6 @@
-﻿// Declare as variáveis nome, idade e nota atribuindo os valores “Paulo”, 17 e 7.5 e exiba a saída no formato : 
+// Declare as variáveis nome, idade e nota atribuindo os valores “Paulo”, 17 e 7.5 e exiba a saída no formato : 
 // Aluno tem anos e nota usando a concatenação e a interpolação de strings.
-/*string nome = "Paulo";
+string nome = "Paulo";
 int idade = 17;
 double nota = 7.5;
 Console.WriteLine($"{nome} tem {idade} anos e sua nota é: {nota}");
@@ -29,29 +29,28 @@ Console.WriteLine($"{nome}\n{idade}\n{nota}");
 // Escreva um programa que recebe 3 letras via teclado e as exiba na ordem reversa usando
 // a concatenação e também a interpolação de strings
 Console.WriteLine("Escreva a 1º letra:");
-char letra1 = Console.ReadLine();
+string letra1 = Console.ReadLine();
 
 Console.WriteLine("Escreva a 2º letra:");
-char letra2 = Console.ReadLine();
+string letra2 = Console.ReadLine();
 
 Console.WriteLine("Escreva a 3º letra:");
-char letra3 = Console.ReadLine();
+string letra3 = Console.ReadLine();
 
-Console.WriteLine($"3º Letra: {letra3}");
-Console.WriteLine($"2º Letra: {letra2}");
-Console.WriteLine($"1º Letra: {letra1}");
+Console.WriteLine(letra3 + " " + letra2 + " " + letra1);
+Console.WriteLine($"{letra3} {letra2} {letra1}");
 
 
 // Marque verdadeiro(V) ou falso(F) para os códigos abaixo:
-// (V) long resultado = 1.32;
+// (F) long resultado = 1.32;
 // (V) var nome = “Maria”;
-// (F) string resultado = 100.ToString();
+// (V) string resultado = 100.ToString();
 // (V) A sequência de escape \n inclui uma nova linha
-// (V) float f = 5.45;
-// (F) decimal valor = (decimal) 10.99f;
+// (F) float f = 5.45;
+// (V) decimal valor = (decimal) 10.99f;
 // (F) var status = null;
-// (F) object o = 12.45m;
-// (F) string titulo = true.ToString();
+// (V) object o = 12.45m;
+// (V) string titulo = true.ToString();
 // (F) A sequencia \t inclui uma tabulação vertical
  
 
@@ -77,7 +76,7 @@ Console.WriteLine(multi);
 Console.WriteLine(expo);
 Console.WriteLine(divisao);
 Console.WriteLine(modulo);
- */
+ 
 
 // Escreva um programa que receba um nome e uma senha via teclado. Nome é uma string e
 // Senha é um inteiro. Se o nome for igual a ‘admin’ ou ‘maria’ e a senha for igual a ‘123’
